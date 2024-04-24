@@ -1,0 +1,27 @@
+nav{
+    width: 90%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.userImg{
+    width: 40px;
+    height: 40px;
+    background-image: url("../assets/images.png");
+    background-size: cover;
+    border-radius: 50px;
+    border: solid 1px;
+    cursor: pointer;
+}
+
+
+.pProperty{
+    width: 250px;
+    height: 50px;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    font-size: 2.2em;
+}

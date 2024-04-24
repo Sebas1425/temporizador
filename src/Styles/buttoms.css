@@ -1,0 +1,17 @@
+button{
+    width: 30%;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #fdfd96;
+    transition: filter 0.3s ease;
+}
+
+button:hover{
+    border: solid 2px #84b6f4;
+    
+}
+
+

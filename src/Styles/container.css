@@ -1,0 +1,37 @@
+body{
+    background-color: #ff6961;
+}
+
+.container{
+    width: 80%;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+
+h1{
+    width: 50%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #84b6f42a;
+}
+
+h1:nth-child(1):hover{
+    transition: 1s;
+    box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.75);
+}
+h1:nth-child(2):hover{
+    transition: 1s;
+    box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.75);
+}
+h1:nth-child(3):hover{
+    transition: 1s;
+    box-shadow: 0px 0px 22px 0px rgba(0,0,0,0.75);
+}
